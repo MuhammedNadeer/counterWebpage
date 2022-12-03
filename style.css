@@ -21,7 +21,7 @@ body {
     padding: 0;
 }
 
-.container h2 {
+.container label {
     font-size: 3em;
     font-weight: 700;
     color: rgb(235, 11, 90);
