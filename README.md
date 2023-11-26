@@ -2,6 +2,10 @@
 
 A basic web project that features a simple counter implemented using HTML, CSS, and JavaScript. This project serves as a fundamental example for beginners learning web development.
 
+## Hosted link
+
+https://muhammednadeer.github.io/counterWebpage/
+
 ## Overview
 
 This project provides a straightforward webpage with a counter that can be incremented or decremented. It's designed to illustrate the interaction between HTML for structure, CSS for styling, and JavaScript for dynamic behavior.
